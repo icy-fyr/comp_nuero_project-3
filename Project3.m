@@ -1,11 +1,10 @@
 
 function CNProject()
-load('CN_Project3_2016.mat');
+load('data_cn_project_iii_a17.mat');
 %%================================================================%%
 %%  Computational Neuroscience (EC60007) Project 3
 %%
-%%  Siddharth S Jha,  14EE30022
-%%  Adarsh Mukesh,    13BT30031
+%%  Akshay Kumar(18BT30002)
 %%  
 %%================================================================%%
 %%  Question no 1: Gaussian Estimation
